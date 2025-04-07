@@ -1,4 +1,4 @@
-# Open-Close Apps
+# Auto-Open-Close Apps
 
 This project provides a simple way to manage Windows processes and applications, allowing you to terminate a specific process and start an application in the background, creating an `.bat` file whenever you want.
 
