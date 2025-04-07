@@ -1,0 +1,5 @@
+# Ignore all .bat files
+*.bat
+
+# Exclude example.bat from being ignored
+!example.bat
